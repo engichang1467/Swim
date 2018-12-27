@@ -13,32 +13,31 @@ It’ll be about swimming, and teaching people how to swim.
 
 Planning: 
 You must submit the following in this order:
-•	4 rough design wire-frames (paper or digital) for website’s layout. Black and white is OK. 
-•	Wire frames are ‘flexible’ blueprints; your actual design can change 
-•	Experienced programmers must also provide wireframes for mobile version 
-•	Mobile version (experienced programmers); use media queries 
-•	It must contain the following: 
-•	4 pages (sections of your website) 
-•	Color scheme (examples/descriptions) 
-•	Features (navigation, images, maps, animations etc.) 
-•	Font scheme (examples/descriptions)
+-	4 rough design wire-frames (paper or digital) for website’s layout. Black and white is OK. 
+-	Wire frames are ‘flexible’ blueprints; your actual design can change 
+-	Experienced programmers must also provide wireframes for mobile version 
+-	Mobile version (experienced programmers); use media queries 
+-	It must contain the following: 
+-	4 pages (sections of your website) 
+-	Color scheme (examples/descriptions) 
+-	Features (navigation, images, maps, animations etc.) 
+-	Font scheme (examples/descriptions)
 
-Digital tools
-Laptop
-
-
+Digital tools:
+- Laptop
 
 
-External tools
-Atom editor
-HTML
-CSS
-Google
+
+External tools:
+- Atom editor
+- HTML
+- CSS
+- Google
 
 
 Outline:
-•	First create the home page of the website with title and the general format of the website with HTML. Then create the navigation bar and sticky footer with css. After finishing the wireframe, I copy the pages. 
-•	For the home page, I create a slide show and an introduction paragraph
-•	For other pages, I put some tutorial video and description of the workouts
+-	First create the home page of the website with title and the general format of the website with HTML. Then create the navigation bar and sticky footer with css. After finishing the wireframe, I copy the pages. 
+-	For the home page, I create a slide show and an introduction paragraph
+-	For other pages, I put some tutorial video and description of the workouts
 
 
