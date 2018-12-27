@@ -1,12 +1,13 @@
-UNIT and Project: Web Design
+UNIT and Project: 
+Web Design
 
 Coding skills:
-HTML 5, CSS 3, and Java Script (for advanced coder/programers)
+- HTML 5, CSS 3, and Java Script (for advanced coder/programers)
 
 Address the following (you can tell me in person):
 
 Who will you be creating your website with?
-Me, Myself, and I
+- Me, Myself, and I
 
 What will your website be about? Discuss possible topics with your partner before answering. Your topic can evolve as you construct the site.
 It’ll be about swimming, and teaching people how to swim.
