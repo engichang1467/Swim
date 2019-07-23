@@ -1,3 +1,5 @@
+[Click here to check it out!!](https://engichang1467.github.io/SwimWeb)
+
 UNIT and Project: 
 Web Design
 
@@ -26,8 +28,6 @@ You must submit the following in this order:
 
 Digital tools:
 - Laptop
-
-
 
 External tools:
 - Atom editor
